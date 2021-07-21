@@ -1,7 +1,7 @@
 <h1>FRONT END PROYECT - MODEL COMPANY INDEX PAGE </h1>
 
 <h3>Link to this proyect frame</h3>
-<a>https://wireframe.cc/VhvPLr</a>
+<a href="https://wireframe.cc/VhvPLr"> -> https://wireframe.cc/VhvPLr </a>
 
 
 <h4>Dependencies:<h4>
